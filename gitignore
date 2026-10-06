@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+.cursor/
+.windsurf/
+
+# Dependencies and logs (if you add tooling later)
+node_modules/
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Screen recordings and temp files
+*.mp4
+*.mkv
+*.mov
+*.tmp
