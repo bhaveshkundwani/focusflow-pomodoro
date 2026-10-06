@@ -3,7 +3,7 @@
 A simple Pomodoro timer with a built-in task list, built **100% by voice using** [**Wispr Flow**](https://ref.wisprflow.ai/hhg).
 
 🔗 **Live demo:** https://bhaveshkundwani.github.io/focusflow-pomodoro/
-🎥 **Demo video:** PASTE-YOUR-YOUTUBE-LINK-HERE
+🎥 **Demo video:** https://youtu.be/eAX3pN3KlNo
 
 ## Features
 
